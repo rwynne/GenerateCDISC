@@ -1,0 +1,1 @@
+java -Xmx5000m -cp "dist\GenerateCDISC.jar:lib\*.jar:." gov.nih.nci.evs.cdisc.GenerateCDISC "file:///.../Thesaurus.owl" CDISC_SDTM_Terminology
